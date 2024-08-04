@@ -79,13 +79,13 @@ const Transcript = () => {
         <header>
           <h1 className="title">Edit Transcript</h1>
         </header>
-        <form>
-          <input
+       <form>
+          <textarea
             className="text-element"
             type="text"
             name="transcript"
             value={project.transcript}
-          />
+          ></textarea>
         </form>
       </div>
     </div>
