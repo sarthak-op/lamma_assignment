@@ -97,14 +97,14 @@ form {
 
 .text-element {
   padding: 10px;
-  font-size: 16px;
+  font-size: 25px;
+  font-stretch: expanded;
   border: 2px solid #7e22ce;
   border-radius: 4px;
-  width: 100%;
   box-sizing: border-box;
-  width: 901px;
-  height: 600px;
-
+  width: 1100px;
+  height: 500px;
+  font-family: "Courier New", Courier, monospace;
   gap: 0px;
   border-radius: 20px 20px 20px 20px;
   border: 2px 0px 0px 0px;
